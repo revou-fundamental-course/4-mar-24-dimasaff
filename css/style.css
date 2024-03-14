@@ -1,0 +1,73 @@
+header>h1{
+    text-align: center;
+}
+.main-container{
+    display: flex;
+}
+/* Form Pengisian */
+.container-item{
+    /* border: 1px solid; */
+    width: 100%;
+    padding: 24px;
+}
+.container-item>h2{
+    text-align: center;
+}
+.container-form{
+    background-color: #DCF2F1;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+.container-form>div{
+    padding: 8px;
+}
+.label-form{
+    line-height: 25px;
+}
+.form-item{
+    height: 24px;
+    border-color: #0F1035;
+    border-radius: 8px;
+    background-color: #FFFBF5;
+}
+button{
+    height: 32px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 0px;  
+    border-radius: 8px;
+    color: white;
+    background-color: #FAA300;
+}
+#calculate-button{
+    background-color: #59D5E0;
+    color: white;
+}
+.container-result{
+    text-align: center;
+    background-color: #DCF2F1;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    border-radius: 8px;
+}
+.range-fitur{
+    line-height: 15px;
+}
+.button2{
+    background-color: #59D5E0;
+}
+.container-disease{
+    text-align: center;
+    background-color: #DCF2F1;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    border-radius: 8px;
+}
+.apk-download{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    border-radius: 8px;
+}
